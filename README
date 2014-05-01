@@ -1,3 +1,3 @@
-Simple csv to po converter script
+Simple csv to po conversion script for gettext translation files
 
 Usage: csv2po.rb <csv-file> <po-file>
