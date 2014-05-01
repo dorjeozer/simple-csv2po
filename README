@@ -1,0 +1,3 @@
+Simple csv to po converter script
+
+Usage: csv2po.rb <csv-file> <po-file>
